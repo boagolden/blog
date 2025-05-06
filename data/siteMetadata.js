@@ -1,26 +1,17 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'geekskai',
-  author: 'Geeks Kai',
-  headerTitle: 'geekskai',
+  title: 'geeksjin',
+  author: 'Geeks jin',
+  headerTitle: 'geeksjin',
   description:
     'A digital hub for web dev tools, tech insights, and sustainable living. Bridging Chinese and global tech perspectives through practical guides and thoughtful analysis.',
   language: 'en-us',
   theme: 'dark', // system, dark or light
-  siteUrl: 'https://geekskai.com',
-  siteRepo: 'https://github.com/geekskai/blog',
+  siteUrl: 'https://blog.jkboa.dpdns.org/',
+  siteRepo: 'https://github.com/boagolden/blog',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/geekskai-blog.png`,
-  mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'geeks.kai@gmail.com',
-  github: 'https://github.com/geekskai',
-  x: 'https://twitter.com/GeeksKai',
-  leetcode: 'https://leetcode.cn/u/githubgankai/',
-  facebook: 'https://www.facebook.com/geekskai',
-  youtube: 'https://www.youtube.com/@kaigan-is6ym',
-  linkedin: 'https://www.linkedin.com/in/geekskai',
-  threads: 'https://www.threads.net',
-  instagram: 'https://www.instagram.com',
+  github: 'https://github.com/boagolden',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
   stickyNav: true,
